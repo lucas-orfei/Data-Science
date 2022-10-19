@@ -1,0 +1,1 @@
+Nessa pasta estão contidas todos os cadernos seguidos durante o AI Automation Challenge. O desafio era simplesmente seguir as aulas e aprender o conteúdo, tendo como um prêmio uma taxa livre em certificações da própria Microsoft.
